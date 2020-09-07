@@ -1,0 +1,3 @@
+This Notebook covers all the important datascience topics from sub-level to expert-level.
+
+This notebook contains all the topics and sub-topic in O'reilly's Python Data Science Handbook. This book can be purcased from https://www.amazon.in/Python-Data-Science-Handbook-Vanderplas/dp/1491912057/ref=asc_df_1491912057/?tag=googleshopdes-21&linkCode=df0&hvadid=396985791312&hvpos=&hvnetw=g&hvrand=18345266675278148501&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007810&hvtargid=pla-432748946539&psc=1&ext_vrnc=hi
